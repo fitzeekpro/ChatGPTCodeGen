@@ -1,0 +1,2 @@
+- name: OpenAI Issue Labeler
+  uses: austenstone/openai-issue-labeler@v1.1
